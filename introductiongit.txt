@@ -1,0 +1,20 @@
+Github repository
+
+create account
+login 
+
+create repository
+
+GIT tool
+
+git clone repository url
+git clone https://github.com/DishaNandanS/core-java.git
+
+git add filename
+git commit -m "adding git file"
+git push
+
+
+ndisha031@gmail.com
+DishaNandanS
+
