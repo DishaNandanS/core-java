@@ -1,11 +1,11 @@
 package UpCasting;
 
-public class Cat00 extends Animal00 {
+public class Cat02 extends Animal02 {
 
-	public Cat00() {
+	public Cat02() {
 		
 	}
-	public Cat00(int legs) {
+	public Cat02(int legs) {
 		this.legs=legs;
 	}
 	public String eat() {

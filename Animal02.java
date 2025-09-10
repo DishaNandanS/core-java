@@ -4,7 +4,7 @@ package UpCasting;
 //Cat - eat()
 //Elephant - eat()
 
-public class Animal01 {
+public class Animal02 {
 
 	public int legs = 4;
 	
